@@ -1,0 +1,205 @@
+.img1 {
+    width: 100px;
+}
+
+header {
+    background: #ec0014;
+    /* Espaçamento INTERNO */
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+nav {
+    background: #ff2d00 ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    letter-spacing: 15;
+}
+
+.bt1 {
+    background:  #ff4733;
+    color: white;
+    text-transform: uppercase;
+    border-radius: 10px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.bt2 {
+    background:  #ca0114;
+    color: white;
+    text-transform: uppercase;
+    border-radius: 10px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.bt3 {
+    background:  #ca0114;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.bt4 {
+    background:  #ca0114;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.bt1:hover {
+    background: #ff4733;
+}
+
+.bt2:hover {
+    background: #ff4733;
+}
+
+.bt3:hover {
+    background: #ff4733;
+}
+.bt4:hover {
+    background: #ff4733;
+}
+
+.section1 {
+    background: #eeeded;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h1 {
+    color: black;
+    letter-spacing: 3;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h2 {
+    color: black;
+    font-size: x-large;
+    letter-spacing: 3;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bt5 {
+    text-align: center;
+    background: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-weight: bold;
+    border: none;
+    letter-spacing: 5;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+}
+
+.section2 {
+    text-align: center;
+    margin: 20;
+    letter-spacing: 80;
+}
+
+.img1 {
+    width: 250px;
+}
+
+.img2 {
+    width: 260px;
+}
+
+.img3 {
+    width: 250px;
+}
+
+.section3 {
+    text-align: center;
+    background: #EEEDED;
+    padding-top: 20;
+    padding-bottom: 50;
+}
+
+.h22 {
+    padding-bottom: 20;
+    font-size: x-large;
+    letter-spacing: 3;
+    font-weight: bold;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bt6 {
+    background: white;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 5px 8px 20px rgb(105, 105, 105);    
+} 
+
+.bt7 {
+    background: white;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 5px 8px 20px rgb(105, 105, 105);    
+} 
+
+ .p1 {
+    letter-spacing: 3;
+    font-weight: bold;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+ }
+
+.p2 {
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align: left;
+}
+
+.img4 {
+    margin: 10;
+    width: 200px;
+}
+
+.rodape {
+    background:  #a90015;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.p3 {
+    text-transform: uppercase;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: none;
+    font-size: smaller;
+}

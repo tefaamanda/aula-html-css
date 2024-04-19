@@ -1,0 +1,211 @@
+header {
+    background-color: #ec0014;
+}
+.img-logo1 {
+    width: 250px;
+    padding-left: 470px;
+    padding-bottom: 23px;
+}
+nav {
+    background-color: #ff2d00;
+    padding-left: 400px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    letter-spacing: 20;
+    text-decoration: none;
+}
+.homea {
+    text-decoration: none;
+}
+.noticiasa {
+    text-decoration: none;
+}
+.cursosa {
+    text-decoration: none;
+}
+.contatoa {
+    text-decoration: none;
+}
+.home {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#ca0114;
+    border: #ca0114;
+    border-radius: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.home:hover {
+    background-color: #ff4733;
+    text-decoration: none;
+}
+.noticias {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#ca0114;
+    border: #ca0114;
+    border-radius: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.noticias:hover {
+    background-color: #ff4733;
+    text-decoration: none;
+}
+.cursos {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#ca0114;
+    border: #ca0114;
+    border-radius: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.cursos:hover {
+    background-color: #ff4733;
+    text-decoration: none;
+}
+.contato {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#ca0114;
+    border: #ca0114;
+    border-radius: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.contato:hover {
+    background-color: #ff4733;
+    text-decoration: none;
+}
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ult-not {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 25px;
+    padding: 20px;
+}
+.ult-not-foto {
+    padding-left: 385px;
+    padding-bottom: 150px;
+}
+.background1 {
+    padding: 15px;
+    padding-bottom: 20px;
+    background-color: white;
+    border: white;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    box-shadow: 5px 8px 15px rgba(128, 128, 128, 0.6);
+}
+.foto {
+    width: 400px;
+    border-radius: 30px;
+}
+h4 {
+    font-weight: normal;
+}
+.ult-not-foto2 {
+    padding-left: 385px;
+    padding-bottom: 130px;
+}
+.background2 {
+    padding: 15px;
+    padding-bottom: 20px;
+    background-color: white;
+    border: white;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    box-shadow: 5px 8px 15px rgba(128, 128, 128, 0.6);
+}
+.foto2 {
+    width: 400px;
+    border-radius: 30px;
+}
+.ult-not-foto3 {
+    padding-left: 385px;
+    padding-bottom: 130px;
+}
+.background3 {
+    padding: 15px;
+    padding-bottom: 20px;
+    background-color: white;
+    border: white;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    box-shadow: 5px 8px 15px rgba(128, 128, 128, 0.6);
+}
+.foto3 {
+    width: 400px;
+    border-radius: 30px;
+}
+.ult-not-foto4 {
+    padding-left: 385px;
+    padding-bottom: 130px;
+}
+.background4 {
+    padding: 15px;
+    padding-bottom: 20px;
+    background-color: white;
+    border: white;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    box-shadow: 5px 8px 15px rgba(128, 128, 128, 0.6);
+}
+.foto4 {
+    width: 400px;
+    border-radius: 30px;
+}
+.ult-not-foto5 {
+    padding-left: 385px;
+    padding-bottom: 130px;
+}
+.background5 {
+    padding: 15px;
+    padding-bottom: 20px;
+    background-color: white;
+    border: white;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    box-shadow: 5px 8px 15px rgba(128, 128, 128, 0.6);
+}
+.foto5 {
+    width: 400px;
+    border-radius: 30px;
+}
+footer {
+    background-color: #a90015;
+    padding-bottom: 20px;
+}
+.img-logo2 {
+    padding-top: 30px;
+    width: 250px;
+    padding-left: 470px;
+    padding-bottom: 23px;
+}
+.rodape-texto {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}

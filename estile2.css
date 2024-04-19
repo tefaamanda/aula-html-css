@@ -1,0 +1,164 @@
+header {
+    background-color: #ec0014;
+}
+.img-logo1 {
+    width: 250px;
+    padding-left: 470px;
+    padding-bottom: 23px;
+}
+nav {
+    background-color: #ff2d00;
+    padding-left: 400px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    letter-spacing: 20;
+    text-decoration: none;
+}
+.homea {
+    text-decoration: none;
+}
+.noticiasa {
+    text-decoration: none;
+}
+.cursosa {
+    text-decoration: none;
+}
+.contatoa {
+    text-decoration: none;
+}
+.home {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#ca0114;
+    border: #ca0114;
+    border-radius: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.home:hover {
+    background-color: #ff2d00;
+    text-decoration: none;
+}
+.noticias {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#ca0114;
+    border: #ca0114;
+    border-radius: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.noticias:hover {
+    background-color: #ff2d00;
+    text-decoration: none;
+}
+.cursos {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#ca0114;
+    border: #ca0114;
+    border-radius: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.cursos:hover {
+    background-color: #ff2d00;
+    text-decoration: none;
+}
+.contato {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#ca0114;
+    border: #ca0114;
+    border-radius: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.contato:hover {
+    background-color: #ff2d00;
+    text-decoration: none;
+    text-decoration: none;
+}
+.p1{
+    text-align: left;
+    font-weight: bold;
+}
+.p3{
+    text-align: left;
+    margin: 2px;
+}
+footer{
+    background-color: #a90015;;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: x-large;
+}
+.p2{
+    text-transform: uppercase;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.imagem1{
+    padding-top: 5px;
+    width: 350px;
+    margin: 7;
+}
+.bot3{
+    margin: 7px;
+    width: 370px;
+    border: groove;
+    border-width: 1px;
+    border-color: black;
+    background-color: whitesmoke;
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px black;
+}
+.coisa{
+    padding-bottom: 5px;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+.negocio{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 25px;
+}
+h2{
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+footer {
+    background-color: #a90015 ;
+    padding-bottom: 20px;
+}
+.img-logo2 {
+    padding-top: 30px;
+    width: 250px;
+    padding-left: 30px;
+    padding-bottom: 23px;
+}
+.rodape-texto {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
